@@ -8,7 +8,7 @@ mesterséges intelligencia" Hajnal Imre matematika módszertani nap és díjáta
 
 ## Hivatkozások
 
-- [Eredeti Prezentáció anyaga]([https://prezi.com/view/JGoR7HBU8AuxIsFrUZg6/?referral_token=TA0VCjlnB3FN](https://prezi.com/view/JGoR7HBU8AuxIsFrUZg6/?referral_token=TA0VCjlnB3FN)])
+- [Eredeti Prezentáció anyaga](https://prezi.com/view/JGoR7HBU8AuxIsFrUZg6/?referral_token=TA0VCjlnB3FN](https://prezi.com/view/JGoR7HBU8AuxIsFrUZg6/?referral_token=TA0VCjlnB3FN))
 
 ## Előadás anyagai
 

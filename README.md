@@ -8,6 +8,8 @@ mesterséges intelligencia" Hajnal Imre matematika módszertani nap és díjáta
 
 ## Hivatkozások
 
+- [Eredeti Prezentáció anyaga]([https://prezi.com/p/yborjk3xwycp/nagy-szilvia-digitalis-projektfeladatok-matematikabol/](https://prezi.com/view/JGoR7HBU8AuxIsFrUZg6/?referral_token=TA0VCjlnB3FN))
+
 ## Előadás anyagai
 
 A repozitoriumban található pdf fájlok tartalma a ChatGpt és Gemini környezetben zajló "beszélgetések" eredménye. Célja a figyelemfelkeltés.
